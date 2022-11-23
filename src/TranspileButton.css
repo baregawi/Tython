@@ -1,0 +1,15 @@
+.component-transpile-button {
+    display: inline-flex;
+    width: 25%;
+    flex: 1 0 auto;
+}
+  
+.component-transpile-button.wide {
+    width: 50%;
+}
+
+.component-transpile-button button {
+    font-size: 1.5rem;
+    margin: 0 1px 0 0;
+    flex: 1 0 auto;
+}
