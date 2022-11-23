@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/baregawi/Tython/static/css/main.a639ce5d.css",
+    "main.js": "/baregawi/Tython/static/js/main.5d6c4fc4.js",
+    "index.html": "/baregawi/Tython/index.html",
+    "main.a639ce5d.css.map": "/baregawi/Tython/static/css/main.a639ce5d.css.map",
+    "main.5d6c4fc4.js.map": "/baregawi/Tython/static/js/main.5d6c4fc4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a639ce5d.css",
+    "static/js/main.5d6c4fc4.js"
+  ]
+}
