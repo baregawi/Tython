@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/baregawi/Tython/static/css/main.a639ce5d.css",
-    "main.js": "/baregawi/Tython/static/js/main.5d6c4fc4.js",
-    "index.html": "/baregawi/Tython/index.html",
-    "main.a639ce5d.css.map": "/baregawi/Tython/static/css/main.a639ce5d.css.map",
-    "main.5d6c4fc4.js.map": "/baregawi/Tython/static/js/main.5d6c4fc4.js.map"
+    "main.css": "./static/css/main.b86ac5c1.css",
+    "main.js": "./static/js/main.35d30161.js",
+    "index.html": "./index.html",
+    "main.b86ac5c1.css.map": "./static/css/main.b86ac5c1.css.map",
+    "main.35d30161.js.map": "./static/js/main.35d30161.js.map"
   },
   "entrypoints": [
-    "static/css/main.a639ce5d.css",
-    "static/js/main.5d6c4fc4.js"
+    "static/css/main.b86ac5c1.css",
+    "static/js/main.35d30161.js"
   ]
 }
